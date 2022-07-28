@@ -1,0 +1,27 @@
+{
+  
+  "name": "batalhanaval",
+  "version": "1.0.0",
+  "description": "jogo de batalha naval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senac-Devs/BatalhaNaval.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Senac-Devs/BatalhaNaval/issues"
+  },
+  "homepage": "https://github.com/Senac-Devs/BatalhaNaval#readme",
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.5"
+  }
+}
